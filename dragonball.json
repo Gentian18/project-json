@@ -1,0 +1,202 @@
+[
+    {
+      "id": "DB-001",
+      "name": "Goku",
+      "description": "A Saiyan warrior who protects Earth and the universe from powerful foes.",
+      "age": 42,
+      "isActive": true,
+      "birthDate": "1980-04-16",
+      "imageUrl": "https://storage.googleapis.com/pod_public/1300/237898",
+      "status": "Hero",
+      "hobbies": ["Training", "Fighting", "Eating"],
+      "mentor": {
+        "id": "MENTOR-001",
+        "name": "Master Roshi",
+        "description": "A wise and powerful martial arts master.",
+        "age": 350,
+        "isActive": true,
+        "birthDate": "1672-01-01",
+        "imageUrl": "https://s1.zerochan.net/Master.Roshi.600.4331288.jpg"
+      }
+    },
+    {
+      "id": "DB-002",
+      "name": "Vegeta",
+      "description": "The prince of the fallen Saiyan race and Goku's rival.",
+      "age": 43,
+      "isActive": true,
+      "birthDate": "1979-08-14",
+      "imageUrl": "https://bleedingedge.pynchonwiki.com/wiki/images/a/ac/Vegeta.jpg",
+      "status": "Hero",
+      "hobbies": ["Training", "Fighting", "Meditating"],
+      "mentor": {
+        "id": "MENTOR-002",
+        "name": "King Vegeta",
+        "description": "The former king of the Saiyan race.",
+        "age": 70,
+        "isActive": false,
+        "birthDate": "1909-05-05",
+        "imageUrl": "https://i.redd.it/eyz46ujthha81.jpg"
+      }
+    },
+    {
+      "id": "DB-003",
+      "name": "Piccolo",
+      "description": "A wise and powerful Namekian warrior.",
+      "age": 35,
+      "isActive": true,
+      "birthDate": "1987-05-09",
+      "imageUrl": "https://i.pinimg.com/736x/c3/b4/5b/c3b45bddeb68dbba3306f63da62ee4b4.jpg",
+      "status": "Hero",
+      "hobbies": ["Meditating", "Training", "Reading"],
+      "mentor": {
+        "id": "MENTOR-003",
+        "name": "Kami",
+        "description": "The former Guardian of Earth.",
+        "age": 500,
+        "isActive": false,
+        "birthDate": "1522-03-15",
+        "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/f/f8/Kami-manga.png/revision/latest?cb=20211005153913"
+      }
+    },
+    {
+      "id": "DB-004",
+      "name": "Gohan",
+      "description": "The eldest son of Goku and a powerful warrior.",
+      "age": 23,
+      "isActive": true,
+      "birthDate": "1999-05-18",
+      "imageUrl": "https://i.pinimg.com/736x/6c/5c/e7/6c5ce7b689b2ee65c47865d12f2b0b0a.jpg",
+      "status": "Hero",
+      "hobbies": ["Studying", "Training", "Fighting"],
+      "mentor": {
+        "id": "MENTOR-004",
+        "name": "Piccolo",
+        "description": "A wise and powerful Namekian warrior.",
+        "age": 35,
+        "isActive": true,
+        "birthDate": "1987-05-09",
+        "imageUrl": "https://i.pinimg.com/736x/c3/b4/5b/c3b45bddeb68dbba3306f63da62ee4b4.jpg"
+      }
+    },
+    {
+      "id": "DB-005",
+      "name": "Frieza",
+      "description": "A powerful and ruthless intergalactic tyrant.",
+      "age": 70,
+      "isActive": true,
+      "birthDate": "1952-09-23",
+      "imageUrl": "https://static.wikia.nocookie.net/universaldragonball/images/6/6d/5A9B3D07-0887-4D9C-9A5A-214D1A569543.png/revision/latest?cb=20180423005813",
+      "status": "Villain",
+      "hobbies": ["Conquering", "Destroying", "Training"],
+      "mentor": {
+        "id": "MENTOR-005",
+        "name": "King Cold",
+        "description": "The former emperor of the universe and Frieza's father.",
+        "age": 100,
+        "isActive": false,
+        "birthDate": "1922-11-11",
+        "imageUrl": "https://static.wikia.nocookie.net/villains/images/0/04/King_Cold_2nd_Form_%28Armored%29.png/revision/latest?cb=20130724153826"
+      }
+    },
+    {
+      "id": "DB-006",
+      "name": "Bulma",
+      "description": "A brilliant scientist and inventor.",
+      "age": 38,
+      "isActive": true,
+      "birthDate": "1984-08-18",
+      "imageUrl": "https://i.pinimg.com/736x/07/a4/f9/07a4f9267b14885dc46f2456ab3113e6.jpg",
+      "status": "Hero",
+      "hobbies": ["Inventing", "Exploring", "Shopping"],
+      "mentor": {
+        "id": "MENTOR-006",
+        "name": "Dr. Brief",
+        "description": "A genius scientist and Bulma's father.",
+        "age": 70,
+        "isActive": true,
+        "birthDate": "1952-04-12",
+        "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/2/2d/Tanookiscomparisonsepisode2110.png/revision/latest?cb=20110227024658"
+      }
+    },
+    {
+      "id": "DB-007",
+      "name": "Krillin",
+      "description": "A skilled martial artist and Goku's best friend.",
+      "age": 39,
+      "isActive": true,
+      "birthDate": "1983-10-29",
+      "imageUrl": "https://i.pinimg.com/736x/37/35/d8/3735d89c61b0537ce5e74f4042bb3b6b.jpg",
+      "status": "Hero",
+      "hobbies": ["Training", "Fighting", "Fishing"],
+      "mentor": {
+        "id": "MENTOR-001",
+        "name": "Master Roshi",
+        "description": "A wise and powerful martial arts master.",
+        "age": 350,
+        "isActive": true,
+        "birthDate": "1672-01-01",
+        "imageUrl": "https://s1.zerochan.net/Master.Roshi.600.4331288.jpg"
+      }
+    },
+    {
+      "id": "DB-008",
+      "name": "Trunks",
+      "description": "The son of Vegeta and Bulma, a skilled warrior from the future.",
+      "age": 18,
+      "isActive": true,
+      "birthDate": "2004-11-21",
+      "imageUrl": "https://i.pinimg.com/736x/dc/7e/a6/dc7ea6cf222d87a19144d7329e7a1ab8.jpg",
+      "status": "Hero",
+      "hobbies": ["Training", "Fighting", "Time Traveling"],
+      "mentor": {
+        "id": "MENTOR-007",
+        "name": "Future Gohan",
+        "description": "A powerful warrior from an alternate future.",
+        "age": 23,
+        "isActive": false,
+        "birthDate": "1999-05-18",
+        "imageUrl": "https://i.pinimg.com/564x/82/8c/a1/828ca111bb3df10a3403622e12ce8658.jpg"
+      }
+    },
+    {
+      "id": "DB-009",
+      "name": "Android 18",
+      "description": "A powerful android created by Dr. Gero.",
+      "age": 32,
+      "isActive": true,
+      "birthDate": "1990-12-12",
+      "imageUrl": "https://i.pinimg.com/originals/63/d0/fb/63d0fb92da401fcbb6c2e61067ecd000.jpg",
+      "status": "Hero",
+      "hobbies": ["Training", "Shopping", "Spending time with family"],
+      "mentor": {
+        "id": "MENTOR-008",
+        "name": "Dr. Gero",
+        "description": "A brilliant but evil scientist.",
+        "age": 70,
+        "isActive": false,
+        "birthDate": "1952-04-12",
+        "imageUrl": "https://static.wikia.nocookie.net/dragonball/images/2/21/Geromanga.jpg/revision/latest/scale-to-width/360?cb=20161208225344"
+      }
+    },
+    {
+      "id": "DB-010",
+      "name": "Majin Buu",
+      "description": "A powerful and ancient creature with the ability to absorb others.",
+      "age": 1000,
+      "isActive": true,
+      "birthDate": "1022-03-15",
+      "imageUrl": "https://static.wikia.nocookie.net/dragonballaffanon/images/8/85/MajinBuu.jpg/revision/latest?cb=20110430012139",
+      "status": "Hero",
+      "hobbies": ["Eating", "Sleeping", "Fighting"],
+      "mentor": {
+        "id": "MENTOR-009",
+        "name": "Bibidi",
+        "description": "A powerful wizard who created Majin Buu.",
+        "age": 500,
+        "isActive": false,
+        "birthDate": "1522-03-15",
+        "imageUrl": "https://static.wikia.nocookie.net/villains/images/2/22/Bibidi_%28Dragon_Ball%29.png/revision/latest?cb=20230306085613"
+      }
+    }
+  ]
